@@ -1,0 +1,16 @@
+
+.ddev/db_snapshots/
+.ddev/session_db_snapshots/
+.ddev/logs/
+.ddev/homeadditions/
+.ddev/.global_commands/
+
+shop/source/tmp/*
+shop/source/log/*
+shop/source/logs/*
+shop/source/vendor/*
+shop/source/out/pictures/generated/*
+shop/source/out/pictures/master/*
+shop/source/out/pictures/icons/*
+
+
