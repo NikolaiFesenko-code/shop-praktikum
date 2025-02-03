@@ -120,7 +120,6 @@
                     [{/if}]
                 [{/oxhasrights}]
             [{/block}]
-            <p>Tset</p>
             [{* article main info block *}]
             <div class="information" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
                 <div class="productMainInfo[{if $oManufacturer->oxmanufacturers__oxicon->value}] hasBrand[{/if}]">
